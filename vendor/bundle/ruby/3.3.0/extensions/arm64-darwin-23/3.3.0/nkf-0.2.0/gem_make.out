@@ -1,0 +1,18 @@
+current directory: /Users/surendra.ponnapalli/MyNewApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/surendra.ponnapalli/MyNewApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241125-7726-ol45lz sitelibdir\=./.gem.20241125-7726-ol45lz clean
+
+current directory: /Users/surendra.ponnapalli/MyNewApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241125-7726-ol45lz sitelibdir\=./.gem.20241125-7726-ol45lz
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/surendra.ponnapalli/MyNewApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241125-7726-ol45lz sitelibdir\=./.gem.20241125-7726-ol45lz install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20241125-7726-ol45lz
+
+current directory: /Users/surendra.ponnapalli/MyNewApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241125-7726-ol45lz sitelibdir\=./.gem.20241125-7726-ol45lz clean
